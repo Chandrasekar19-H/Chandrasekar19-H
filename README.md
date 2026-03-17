@@ -76,8 +76,3 @@
 💪 I learn faster by building real projects  
 🔥 Always improving day by day  
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Chandrasekar19-H/Chandrasekar19-H/output/github-contribution-grid-snake.svg" />
-</p>
