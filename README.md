@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chandrasekar</h1>
-<h3 align="center">Aspiring software developer and student, interested in problem-solving and developing efficient applications.</h3>
+<h3 align="center">Aspiring Full Stack Developer | B.Tech IT Student  
+Passionate about building scalable web applications and solving real-world problems.</h3>
 
 - 🔭 I’m currently working on **UltraGITS**
 
